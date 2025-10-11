@@ -1,4 +1,4 @@
-const PASSWORD='21122023';
+const PASSWORD='24092025';
 const letters=Array.from({length:50},(_,i)=>({
  id:i+1,
  title:`Open when... #${i+1}`,
